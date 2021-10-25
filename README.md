@@ -66,3 +66,4 @@ Join our meetings:
 * [Bi-weekly office hours, Mondays @ 11am PST](https://tinyurl.com/minikube-oh)
 * [Triage Party](https://minikube.sigs.k8s.io/docs/contrib/triage/)
 # k8s-on-Minikube
+# K8s-on-Minikube
